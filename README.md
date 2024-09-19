@@ -1,0 +1,2 @@
+# FriDeck
+Opensource streamdeck
